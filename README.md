@@ -1,10 +1,9 @@
 # RxJavaDemo
-This Project is too demonstrate the usage of RXJava with Dagger 2 + MVP + Kotlin + Retrofit + ROOM, in simplest way possible  
+This Project is too demonstrate the usage of RXJava with  MVP + Kotlin + Retrofit, in simplest way possible  
 
 Libraries used on the sample project
 ------------------------------------
 * RxJava
-* [Dagger 2][2]
 * Kotlin
 * Retrofit
 
